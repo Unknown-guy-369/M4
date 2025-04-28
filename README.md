@@ -205,6 +205,7 @@ write a Program to compare two strings without using strcmp().
 8. End the program.
 
 ## PROGRAM
+```c
 #include <stdio.h>
 
 int main() {
@@ -239,7 +240,7 @@ int main() {
 
     return 0;
 }
-
+```
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/7594c0c7-c3bb-46d8-8de6-c7d1be3b3905)
